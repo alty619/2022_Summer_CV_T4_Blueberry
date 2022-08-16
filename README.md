@@ -1,7 +1,7 @@
-## A Development of the anomaly Braille Block Detecting and Warning Embedded System for the Blind
+## A Development of the Anomaly Braille Block Detecting and Warning Embedded System for the Blind
 2022년 CUAI Summer Conference Computer Vision 4 team, 🫐Blueberry🫐 Repository 입니다.
 
-📌 Topic: A Development of the anomaly Braille Block Detecting and Warning Embedded System for the Blind
+📌 Topic: A Development of the Anomaly Braille Block Detecting and Warning Embedded System for the Blind
 
 🖇 Link: [Raspberry Pi Code](https://github.com/CUAI-CAU/2022_Summer_CV4_T4_Blueberry/blob/main/RASPBERRY%20PI/cv_result_video.ipynb) | [Model Code & Result](https://github.com/CUAI-CAU/2022_Summer_CV4_T4_Blueberry/blob/main/ae_range_result.ipynb) | Short Paper | Presentation
 
